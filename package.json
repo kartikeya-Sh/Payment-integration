@@ -1,0 +1,17 @@
+{
+  "name": "payment_gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pay.js",
+  "scripts": {
+ "start":"node pay.js"
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "instamojo-nodejs": "0.0.5",
+    "nodemon": "^2.0.7"
+  }
+}
